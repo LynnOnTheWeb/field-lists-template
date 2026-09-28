@@ -2,6 +2,8 @@
 
 A mobile-first field task list for construction subcontractors, built on top of JobTread. Each page is a clean, phone-friendly punch list for **one job and one trade** — a digital replacement for handing a subcontractor a printed list, with easy access to photos, plan screenshots, and PDFs already attached to the task in JobTread.
 
+https://github.com/user-attachments/assets/3c03ce13-b23f-469d-ae2c-ff5605c4f2cd
+
 ---
 
 ## Before you start: what you're actually setting up
